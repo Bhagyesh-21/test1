@@ -1,1 +1,5 @@
 hello your are learning git and github
+
+welcome to git
+Git is a distributed version control system
+GitHub is a web-based platform that uses Git for version control.
